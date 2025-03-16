@@ -32,7 +32,7 @@ const Projects = () => {
       title: "Jewel Zone",
       description:
         "A full-stack e-commerce web application for jewelry products with user authentication, product catalog, shopping cart, and payment integration.",
-      image: "https://drive.google.com/file/d/1IbL_N3Srl_dg-bVtDxlfLdaXyLCGtCeC/view?usp=drive_link",
+      image: "public\jewel.jpeg",
       technologies: ["React", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
       details: [
         "Developed a full-stack web application using React, MongoDB, Express.js, and Tailwind CSS.",
@@ -46,7 +46,8 @@ const Projects = () => {
       title: "Hospital Website",
       description:
         "A comprehensive hospital management system with patient records, appointment scheduling, and staff management features.",
-      image: "https://drive.google.com/file/d/1g8Up1QuaINxQeK_oc5jgRKTBwu5qNXJy/view?usp=drive_link",
+        image: "public\hosp.png",
+
       technologies: ["React", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
       details: [
         "Designed and developed a full-stack hospital website using React, MongoDB, Express.js, and Tailwind CSS.",
@@ -61,14 +62,14 @@ const Projects = () => {
       title: "Portfolio Website",
       description:
         "A visually stunning portfolio website with seamless transitions, animations, and interactive elements to showcase skills and projects.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "public\port.png",
       technologies: ["React", "Framer Motion", "Tailwind CSS", "JavaScript"],
       details: [
         "Designed and developed a responsive portfolio website with modern UI/UX principles.",
         "Implemented advanced animations and transitions using Framer Motion.",
         "Created interactive components and parallax scrolling effects for an engaging user experience.",
       ],
-      github: "#",
+      github: "https://github.com/rathishreya/shreya",
       demo: "#",
     },
   ]

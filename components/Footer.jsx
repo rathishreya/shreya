@@ -27,7 +27,7 @@ const Footer = () => {
             <motion.div whileHover={{ scale: 1.05 }} className="text-2xl font-bold gold-text">
               Shreyanshi Rathi
             </motion.div>
-            <p className="mt-2 text-gray-400">Software Engineer & Microsoft Student Ambassador</p>
+            <p className="mt-2 text-gray-400">Software Engineer </p>
           </div>
           <div className="flex flex-col items-center md:items-end">
             <div className="flex space-x-4 mb-4">

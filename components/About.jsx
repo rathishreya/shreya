@@ -125,15 +125,16 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               {
-                title: "GHC Scholar 2023",
+                title: "2x GHC Scholar 2023/4",
                 description: "One of the few female candidates selected to participate in an international conference",
               },
               {
-                title: "IPU LEET AIR - 14",
-                description: "",
+                title: "Village Head - UBA MSIT",
+                description:
+                  "Led community development initiatives, coordinated projects, and managed teams, fostering local engagement and sustainable development.",
               },
               {
-                title: "Student Placement Coordinator",
+                title: "President -Placement Committee",
                 description:
                   "TPO MSIT - effectively coordinating and bridging the gap between the college and companies, with a focus on facilitating on-campus placement drives.",
               },
@@ -143,9 +144,9 @@ const About = () => {
                   "Led organizational activities, coordinated events, and managed a team, fostering student engagement and collaboration. Planned and executed successful fests, workshops, and hackathons.",
               },
               {
-                title: "Village Head - UBA MSIT",
-                description:
-                  "Led community development initiatives, coordinated projects, and managed teams, fostering local engagement and sustainable development.",
+                title: "IPU LEET AIR - 14",
+                description: "",
+               
               },
             ].map((achievement, index) => (
               <motion.div

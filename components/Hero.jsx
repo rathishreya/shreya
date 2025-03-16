@@ -98,8 +98,8 @@ const Hero = () => {
             transition={{ type: "spring", stiffness: 300 }}
             className="relative"
           >
-            <img
-              src="https://drive.google.com/file/d/1moBpN9EHuo_Dt5kNQxdPO-R-Vx3089kv/view?usp=drive_link"
+            <img 
+              src="public\mine.jpg"
               alt="Shreyanshi Rathi"
               className="w-32 h-32 rounded-full border-4 border-white dark:border-gray-800 shadow-xl object-cover relative z-10"
             />
@@ -133,7 +133,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-xl sm:text-2xl font-medium text-gray-700 dark:text-gray-300 mb-6"
         >
-          Computer Science Engineer
+          Software Engineer
         </motion.h2>
 
         <motion.p
